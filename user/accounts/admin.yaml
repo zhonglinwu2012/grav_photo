@@ -1,0 +1,11 @@
+email: zhonglin.wu2012@gmail.com
+fullname: 'wu zhonglin'
+title: admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$P5o3oG94opazJJphKbAOsuKRhLeC1IHUEE.HgUFWCAqM5Y2IU5JSe
